@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="017c2306-d93b-466b-a160-7c045117280c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetLoopy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dicerollgetloopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task8.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2nOBIW1t0wj4tZXx0aCoRjP5ahM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.forloop.executor": "Run",
+    "Application.loop2.executor": "Run",
+    "Application.loop3.executor": "Run",
+    "Application.loop4.executor": "Run",
+    "Application.task1.executor": "Run",
+    "Application.task5.executor": "Run",
+    "Application.task6.executor": "Run",
+    "Application.task7.executor": "Run",
+    "Application.task8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="017c2306-d93b-466b-a160-7c045117280c" name="Changes" comment="" />
+      <created>1728834166980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728834166980</updated>
+    </task>
+    <servers />
+  </component>
+</project>
