@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="017c2306-d93b-466b-a160-7c045117280c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetLoopy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dicerollgetloopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task8.java" afterDir="false" />
+    <list default="true" id="017c2306-d93b-466b-a160-7c045117280c" name="Changes" comment="get loopy">
+      <change beforePath="$PROJECT_DIR$/src/dicerollgetloopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dicerollgetloopy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BusickTA"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BusickTA/Getloopy.git",
+    "accountId": "953d4e05-7321-4393-9ecc-2b184f6185f3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -48,11 +45,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.dicerollgetloopy.executor": "Run",
     "Application.forloop.executor": "Run",
     "Application.loop2.executor": "Run",
     "Application.loop3.executor": "Run",
     "Application.loop4.executor": "Run",
     "Application.task1.executor": "Run",
+    "Application.task2.executor": "Run",
+    "Application.task3.executor": "Run",
+    "Application.task4.executor": "Run",
     "Application.task5.executor": "Run",
     "Application.task6.executor": "Run",
     "Application.task7.executor": "Run",
@@ -72,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728834166980</updated>
     </task>
+    <task id="LOCAL-00001" summary="get loopy">
+      <option name="closed" value="true" />
+      <created>1728866611799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728866611799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="get loopy" />
+    <option name="LAST_COMMIT_MESSAGE" value="get loopy" />
   </component>
 </project>
